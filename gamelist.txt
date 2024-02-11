@@ -1,2 +1,2 @@
-Fortnite,FNSmall.png
-BS21,BS21Small.jpg
+Fortnite,FNSmall
+BS21,BS21Small
