@@ -5,5 +5,7 @@
   "CrackRelease": "Codex; DODI",
   "CrackAPIs": "CreamAPI;DreamAPI;GoldbergEmu;LumaPlay;EA DLC Unlocker;Nemirtingas Epic Emulator;Plutonium;SmokeAPI;Steamless",
   "IncludedDlc": "NODLC",
-  
+  "TorrentFile": "FN.torrent",
+  "DownloadSize": "22 Go",
+  "GameDiskSize": "45 Go"
 }
